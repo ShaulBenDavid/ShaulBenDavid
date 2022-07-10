@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaulBenDavid
 - 👀 I’m interested in Web devlopment
-- 🌱 I’m currently learning React
+- 🌱 Focusing on Front-End development
 - 💞️ I’m looking to collaborate on Web project
 - 📫 shaulbd9@gmail.com
 
