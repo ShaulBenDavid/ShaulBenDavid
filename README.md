@@ -12,8 +12,8 @@
 - 💞️ I’m looking to collaborate on a Web project
 - 📫 shaulbd9@gmail.com
 <br/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=ShaulBenDavid)
-<br/>
+
+![](https://komarev.com/ghpvc/?username=ShaulBenDavid&color=dc143c)
 
 
 <h3 align="left">Connect with me:</h3>
