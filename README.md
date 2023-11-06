@@ -1,4 +1,5 @@
-[![MasterHead]([your image link](https://github.com/ShaulBenDavid/ShaulBenDavid/blob/main/banner.png))](https://github.com/ShaulBenDavid/ShaulBenDavid)
+[![MasterHead]((https://github.com/ShaulBenDavid/ShaulBenDavid/blob/main/banner.png))](https://github.com/ShaulBenDavid/ShaulBenDavid)
+<img align="right" alt="Coding" width="400" src="https://github.com/ShaulBenDavid/ShaulBenDavid/blob/main/banner.png">
 
 - 👋 Hi, I’m @ShaulBenDavid
 - 👀 I’m interested in Web development
