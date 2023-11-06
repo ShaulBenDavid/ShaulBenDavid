@@ -13,7 +13,7 @@
 - 📫 shaulbd9@gmail.com
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ShaulBenDavid&color=dc143c)
+![](https://komarev.com/ghpvc/?username=ShaulBenDavid&color=blue)
 
 
 <h3 align="left">Connect with me:</h3>
