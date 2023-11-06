@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/shaul-ben-david-85b062208/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
+[![Shaul GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaulBenDavid)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 ShaulBenDavid/ShaulBenDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
