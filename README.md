@@ -11,7 +11,8 @@
 - ✨ Knowledge in backend development with Express and Django
 - 💞️ I’m looking to collaborate on a Web project
 - 📫 shaulbd9@gmail.com
-  
+<br/>
+  ![](https://komarev.com/ghpvc/?username=ShaulBenDavid)
 <br/>
 
 
