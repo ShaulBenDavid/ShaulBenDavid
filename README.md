@@ -1,6 +1,8 @@
 
 <img align="left" alt="Coding" width="100%" src="https://github.com/ShaulBenDavid/ShaulBenDavid/blob/main/banner.png">
-
+<br/>
+<br/>
+<br/>
 
 
 - 👋 Hi, I’m @ShaulBenDavid
@@ -9,6 +11,8 @@
 - ✨ Knowledge in backend development with Express and Django
 - 💞️ I’m looking to collaborate on a Web project
 - 📫 shaulbd9@gmail.com
+  
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +21,7 @@
 <a href="https://www.linkedin.com/in/shaul-ben-david-85b062208/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 [![Shaul GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaulBenDavid)](https://github.com/anuraghazra/github-readme-stats)
 
