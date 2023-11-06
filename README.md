@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ShaulBenDavid
-- 👀 I’m interested in Web devlopment
+- 👀 I’m interested in Web development
 - 🌱 Focusing on Front-End development
-- 💞️ I’m looking to collaborate on Web project
+- ✨ Knowledge in backend development with Express and Django
+- 💞️ I’m looking to collaborate on a Web project
 - 📫 shaulbd9@gmail.com
 
 <!---
