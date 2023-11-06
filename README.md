@@ -1,6 +1,8 @@
 
 <img align="left" alt="Coding" width="100%" src="https://github.com/ShaulBenDavid/ShaulBenDavid/blob/main/banner.png">
 
+
+
 - 👋 Hi, I’m @ShaulBenDavid
 - 👀 I’m interested in Web development
 - 🌱 Focusing on Front-End development
